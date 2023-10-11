@@ -1,0 +1,3 @@
+sebastian faitini - editado desde el bloc de notas de windows
+
+ahora di la orden en git para que lo abra en VSC
